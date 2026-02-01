@@ -1,0 +1,28 @@
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad_1\bin\Debug\net10.0\Actividad_1.exe
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad_1\bin\Debug\net10.0\Actividad_1.deps.json
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad_1\bin\Debug\net10.0\Actividad_1.runtimeconfig.json
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad_1\bin\Debug\net10.0\Actividad_1.dll
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad_1\bin\Debug\net10.0\Actividad_1.pdb
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad_1\obj\Debug\net10.0\Actividad_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad_1\obj\Debug\net10.0\Actividad_1.AssemblyInfoInputs.cache
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad_1\obj\Debug\net10.0\Actividad_1.AssemblyInfo.cs
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad_1\obj\Debug\net10.0\Actividad_1.csproj.CoreCompileInputs.cache
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad_1\obj\Debug\net10.0\Actividad_1.dll
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad_1\obj\Debug\net10.0\refint\Actividad_1.dll
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad_1\obj\Debug\net10.0\Actividad_1.pdb
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad_1\obj\Debug\net10.0\Actividad_1.genruntimeconfig.cache
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad_1\obj\Debug\net10.0\ref\Actividad_1.dll
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad 1 (LR-2024-02080)\Actividad_1\bin\Debug\net10.0\Actividad_1.exe
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad 1 (LR-2024-02080)\Actividad_1\bin\Debug\net10.0\Actividad_1.deps.json
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad 1 (LR-2024-02080)\Actividad_1\bin\Debug\net10.0\Actividad_1.runtimeconfig.json
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad 1 (LR-2024-02080)\Actividad_1\bin\Debug\net10.0\Actividad_1.dll
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad 1 (LR-2024-02080)\Actividad_1\bin\Debug\net10.0\Actividad_1.pdb
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad 1 (LR-2024-02080)\Actividad_1\obj\Debug\net10.0\Actividad_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad 1 (LR-2024-02080)\Actividad_1\obj\Debug\net10.0\Actividad_1.AssemblyInfoInputs.cache
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad 1 (LR-2024-02080)\Actividad_1\obj\Debug\net10.0\Actividad_1.AssemblyInfo.cs
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad 1 (LR-2024-02080)\Actividad_1\obj\Debug\net10.0\Actividad_1.csproj.CoreCompileInputs.cache
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad 1 (LR-2024-02080)\Actividad_1\obj\Debug\net10.0\Actividad_1.dll
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad 1 (LR-2024-02080)\Actividad_1\obj\Debug\net10.0\refint\Actividad_1.dll
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad 1 (LR-2024-02080)\Actividad_1\obj\Debug\net10.0\Actividad_1.pdb
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad 1 (LR-2024-02080)\Actividad_1\obj\Debug\net10.0\Actividad_1.genruntimeconfig.cache
+C:\Users\kendr\OneDrive\Escritorio\Lenguaje II\Actividad 1 (LR-2024-02080)\Actividad_1\obj\Debug\net10.0\ref\Actividad_1.dll
